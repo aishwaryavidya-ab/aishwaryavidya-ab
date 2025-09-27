@@ -1,16 +1,15 @@
 ## Hi there 👋
+# I’m Aishwarya V
+Certified **Data Analyst** passionate about turning raw data into actionable insights.
 
-<!--
-**aishwaryavidya-ab/aishwaryavidya-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧩 About Me
+- 🎯 Strong background in **SQL, Python, Power BI, and Excel**
+- 📊 Skilled in **data cleaning, visualization, and statistical analysis**
+- 💡 Enthusiastic about data storytelling and building interactive dashboards
 
-Here are some ideas to get you started:
+## 🔑 Skills
+- **Languages & Tools:** SQL | Python | Power BI | Excel | Pandas | NumPy
+- **Techniques:** Data Wrangling | Data Modeling | Descriptive & Inferential Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/aishwarya-v-13315b384) | [Email](mailto:aishwaryavidya.ab@gmail.com)
