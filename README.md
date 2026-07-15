@@ -1,13 +1,22 @@
 # Hi there 👋 I’m Aishwarya  
 
-💻 **Certified Data Analyst | SQL Developer | Python | Power BI | Excel**  
+💻   **Data Engineer|Certified Data Analyst | SQL Developer | Python | Power BI | Excel**  
 
-I am passionate about turning raw data into meaningful insights that support smarter business decisions.  
+I'm an Azure Data Engineer with experience in designing and developing scalable data pipelines, data warehouses, and cloud-based analytics solutions.  
 With hands-on experience as an **SQL Developer** and a background in the **Education industry**, I bring both technical skills and the ability to explain complex concepts clearly.  
 
 ---
 
 ## 🚀 What I Do
+- Build scalable **Azure Data Engineering** solutions
+- Develop ETL/ELT pipelines using **Azure Data Factory (ADF)**
+- Process and transform data using **Azure Databricks, PySpark, and Spark SQL**
+- Design modern data warehouses with **Azure Synapse Analytics**
+- Implement **Medallion Architecture (Bronze, Silver, Gold)** using **Delta Lake**
+- Optimize Spark jobs using partitioning, caching, and broadcast joins
+- Build **metadata-driven pipelines** with incremental loading and CDC
+- Perform data quality validation and workflow automation
+- Create **Power BI dashboards** for business insights
 - Write efficient **SQL queries** to analyze and manage large datasets  
 - Perform **data cleaning & transformation** for accurate reporting  
 - Build **dashboards & visualizations** in Power BI and Excel  
@@ -24,7 +33,7 @@ With hands-on experience as an **SQL Developer** and a background in the **Educa
 ---
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/aishwarya-v-13315b384) | [Email](mailto:aishwaryavidya.ab@gmail.com)
+ | [Email](mailto:aishwaryavidya.ab@gmail.com)
 
 ⭐️ *Exploring data one query at a time.*  
 
